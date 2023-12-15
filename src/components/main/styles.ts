@@ -23,3 +23,8 @@ export const Description = styled.h2`
   font-size: 2rem;
   font-weight: 400;
 `;
+
+export const Illustration = styled.img`
+  margin: 3rem 0;
+  width: min(30rem, 100%);
+`;
